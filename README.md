@@ -1,2 +1,2 @@
-# PowerBIProjects
-My PowerBI projects
+# PowerBIProject
+Sales Dashboard on Power BI
